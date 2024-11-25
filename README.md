@@ -1,1 +1,1 @@
-https://github.com/mariadudabonfim/aluracode.git
+https://mariadudabonfim.github.io/aluracode/
